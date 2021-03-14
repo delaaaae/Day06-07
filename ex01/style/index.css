@@ -1,0 +1,86 @@
+h1 {
+  text-align: center;
+  float: center;
+  color: rgba(238, 67, 67, 0.89);
+}
+
+img {
+  width: 300px;
+  height: 200px;
+}
+
+p {
+  text-align: left;
+  width: 300px;
+  height: auto;
+}
+
+h2 {
+  color: slategrey;
+}
+
+/* container1 */
+
+.container1 {
+  display: flex;
+}
+
+.container1 div {
+  padding: 50px;
+}
+
+.image1 {
+  flex: 1;
+}
+
+.image2 {
+  flex: 1;
+}
+
+.image3 {
+  flex: 1;
+}
+
+/* container2 */
+
+.container2 {
+  display: flex;
+}
+
+.container2 div {
+  padding: 50px;
+}
+
+.image4 {
+  flex: 1;
+}
+
+.image5 {
+  flex: 1;
+}
+
+.image6 {
+  flex: 1;
+}
+
+/* container3 */
+
+.container3 {
+  display: flex;
+}
+
+.container3 div {
+  padding: 50px;
+}
+
+.image7 {
+  flex: 1;
+}
+
+.image8 {
+  flex: 1;
+}
+
+.image9 {
+  flex: 1;
+}
